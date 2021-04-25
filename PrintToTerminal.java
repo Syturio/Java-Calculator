@@ -1,7 +1,6 @@
 // ----- Uso isto para fazer todo o tipo de prints no terminal.
 public class PrintToTerminal
 {
-    // ----- ISTO NÃO É A FORMA CORRETA DE SE FAZER NÃO TIVE TEMPO PARA CORRIGIR.
     void PrintToTerminal(String a)
     {
         String str_temp_1 = "", str_temp_2 = "";
